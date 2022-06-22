@@ -1,2 +1,2 @@
 # Mars
-Learning for Mosh
+Learning for Github for Software Development
